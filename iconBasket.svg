@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_2" data-name="레이어 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 1.3px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g>
+      <g>
+        <polygon class="cls-2" points="3.35 6.26 12.45 6.26 14.54 14.59 1.46 14.59 3.35 6.26"/>
+        <path class="cls-2" d="m10.55,6.12v-1.86c0-1.32-1.15-2.4-2.57-2.4s-2.57,1.08-2.57,2.4v1.86s.01.09.01.14h5.1s.01-.09.01-.14Z"/>
+        <line class="cls-2" x1="9.25" y1="6.51" x2="11.27" y2="14.59"/>
+      </g>
+      <rect class="cls-1" width="16" height="16"/>
+    </g>
+  </g>
+</svg>
