@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_2" data-name="레이어 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20.02 27.52">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #505050;
+      }
+
+      .cls-3 {
+        fill: #404040;
+        isolation: isolate;
+        opacity: .5;
+      }
+    </style>
+  </defs>
+  <g id="_레이어_1-2" data-name="레이어 1">
+    <g id="prefix_그룹_5547" data-name="prefix  그룹 5547">
+      <ellipse id="prefix_타원_1952" data-name="prefix  타원 1952" class="cls-3" cx="9.92" cy="24.22" rx="7.2" ry="3.3"/>
+      <path id="prefix_패스_10385-2" data-name="prefix  패스 10385-2" class="cls-2" d="m20.02,10.16c0,2.7-1.1,5.2-3,7.1l-7,7-7.1-7.1C-.98,13.26-.98,6.96,2.93,2.96s10.2-3.9,14.2,0c1.8,2,2.9,4.5,2.9,7.2Z"/>
+    </g>
+    <circle class="cls-1" cx="9.92" cy="9.6" r="4"/>
+  </g>
+</svg>
